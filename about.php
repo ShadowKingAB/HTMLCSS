@@ -10,10 +10,10 @@
 <body>
     <header>
         <ul>
-            <li><a href="home.html"><font color="RED" face="Arial Black" size=2>Home</font></a></li>
-            <li><a href="news.html"><font color="RED" face="Arial Black" size=2>NEWS</font></a></li>
-            <li><a href="contact.html"><font color="RED" face="Arial Black" size=2>CONTACT</font></a></li>
-            <li><a href="about.html"><font color="RED" face="Arial Black" size=2>ABOUT</font></a></li>
+            <li><a href="home.php"><font color="RED" face="Arial Black" size=2>Home</font></a></li>
+            <li><a href="news.php"><font color="RED" face="Arial Black" size=2>NEWS</font></a></li>
+            <li><a href="contact.php"><font color="RED" face="Arial Black" size=2>CONTACT</font></a></li>
+            <li><a href="about.php"><font color="RED" face="Arial Black" size=2>ABOUT</font></a></li>
             <li style="float:right"><a class="active" href="logout.html"><font color="RED" face="Arial Black" size=2>LOGOUT  <span class="icon"><ion-icon name="log-out-outline"></ion-icon></span></font></a></li>
         </ul>
     </header>

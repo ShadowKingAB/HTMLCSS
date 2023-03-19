@@ -35,14 +35,7 @@
       background-repeat: no-repeat;
       background-size: cover;
     }
-    .fulls{
-      background-image: url("comp.jpg");
-    
-      height: 100%; 
-      background-position: center;
-      background-repeat: no-repeat;
-      background-size: cover;
-    }
+
   .text-bar {
     width: 100%;
     padding: 12px 20px;

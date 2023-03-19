@@ -48,7 +48,7 @@
         if (mysqli_num_rows($result)){
             // $a=true;
             // echo "Login Success";
-            header("Location:  ./home.html");
+            header("Location:  ./home.php");
     }
 }
     
