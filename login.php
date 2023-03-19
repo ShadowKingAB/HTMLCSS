@@ -50,20 +50,6 @@
             // echo "Login Success";
             header("Location:  ./home.html");
     }
-    // while ($row = $result->fetch_assoc()) {
-    //     if (! empty($row)) {
-    //         $hashedPassword = $row["password"];
-    //         if (password_verify($_POST["password"], $hashedPassword)) {
-    //             $a=true;
-    //         }
-    //     }
-    // }
-    // if($a==true){
-    //     echo "login Successfull";
-    // }
-    // else{
-    //     echo "you cheater";
-    // }
 }
     
     ?>
